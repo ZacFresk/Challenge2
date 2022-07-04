@@ -1,4 +1,3 @@
-# Challenge2
 ## stock-analysis
 ## Overview of Project
 Steve had loved the workbook that we created for him. Now he wants us to do a little more research for his parents which can expand the dataset to include the entire stock market over the last few years.
@@ -13,15 +12,16 @@ With this method it would pull the ticker symbol, starting price, ending, price,
 
 ### Refactored Code Examples
 
-![image](C:\Users\Zack.Computer\Desktop\Challenge2\Resources\VBA Script Refractoring.png)
+![VBA Script Refractoring](https://user-images.githubusercontent.com/107363203/177089573-8b989519-9fba-4bac-8a07-b71da08f04d4.png)
 
 **Refactored Script for Looping Through Iterations**
 
-![image](C:\Users\Zack.Computer\Desktop\Challenge2\Resources\Refractored Script for Looping.png)
+![Refractored Script for Looping](https://user-images.githubusercontent.com/107363203/177089600-7a3bddcb-52da-4ca9-9d5b-d47cd782ded2.png)
+
 
 **Original Script for Looping Through Iterations**
 
-![image](C:\Users\Zack.Computer\Desktop\Challenge2\Resources\Original Script for Looping.png)
+![Original Script for Looping](https://user-images.githubusercontent.com/107363203/177089611-01496b1d-35bc-4714-85d5-147b6f25df0c.png)
 
 The difference here is that the ticker from the original script was a variable. With the refractored code tickerIndex in referenced with each array, such as totalVolume(tickerIndex) and tickerStartingPrice(tickerIndex) which provided much quicker results.
 
@@ -31,11 +31,11 @@ The original script ran to over 1 second for both years. When we refractored the
 
 **2017 Refactored Results**
 
-![image](C:\Users\Zack.Computer\Desktop\Challenge2\Resources\VBA_Challenge_2017.png.png)
+![VBA_Challenge_2017 png](https://user-images.githubusercontent.com/107363203/177089636-f17bd0a7-5a3f-4b8d-8c71-325c6fef6e97.png)
 
 **2018 Refactored Results**
 
-![image](C:\Users\Zack.Computer\Desktop\Challenge2\Resources\VBA_Challenge_2018.png.png)
+![VBA_Challenge_2018 png](https://user-images.githubusercontent.com/107363203/177089655-f652f1a6-6b47-44a0-8aa3-170c522cb569.png)
 
 ## Stock Market Analysis Summary
     1. What are the advantages and disadvantages of refactoring code?
