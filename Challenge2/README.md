@@ -38,8 +38,8 @@ The original script ran to over 1 second for both years. When we refractored the
 ![VBA_Challenge_2018 png](https://user-images.githubusercontent.com/107363203/177089655-f652f1a6-6b47-44a0-8aa3-170c522cb569.png)
 
 ## Stock Market Analysis Summary
-    1. What are the advantages and disadvantages of refactoring code?
+   1. What are the advantages and disadvantages of refactoring code?
 A major advantage of refactoring code is you do not need to start over everytime. It saves the programmer time and effort if they are starting a new project. A disadvantage would come when it is a code you did not write and you would not know if it would support the data you are working on.
 
-    2. How do these advantages and disadvantages apply to the original VBA script?
+   2. How do these advantages and disadvantages apply to the original VBA script?
 Most of the work was already provided from this script. All we were asked to do was to make it more efficient. But having that code prewritten I did have to go through to make sure it would support the dataset we were given.
